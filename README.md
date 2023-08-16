@@ -1,1 +1,1 @@
-# Color-Switch-Game
+# color-switch
